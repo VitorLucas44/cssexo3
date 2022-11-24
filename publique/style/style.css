@@ -16,3 +16,21 @@ button{
     color: aliceblue;
 
 }
+
+.robot:hover{
+    background-color: darkorchid;
+}
+.robot{
+    margin: 3px;
+    padding: 3px;
+    height: 400px;
+}
+
+.robot:hover{
+    background-color: darkorchid;
+}
+.robot{
+    margin: 3px;
+    padding: 3px;
+    height: 400px;
+}
