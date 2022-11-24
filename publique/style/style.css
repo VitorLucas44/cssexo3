@@ -8,8 +8,11 @@ button{
     display: inline-block;
     width: 150px;
     height: 30px;
-    background-color: blueviolet;
+    background-color: darkorchid;
     position: relative;
     left: 135px;
+    border: none;
+    box-shadow: 7px 5px 5px rgb(100, 95, 95);
+    color: aliceblue;
 
 }
