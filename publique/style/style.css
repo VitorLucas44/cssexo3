@@ -26,10 +26,19 @@ button{
     height: 400px;
 }
 
-.robot:hover{
+.yoda:hover{
     background-color: darkorchid;
 }
-.robot{
+.yoda{
+    margin: 3px;
+    padding: 3px;
+    height: 400px;
+}
+
+.vert:hover{
+    background-color: darkorchid;
+}
+.vert{
     margin: 3px;
     padding: 3px;
     height: 400px;
